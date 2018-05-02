@@ -1,12 +1,13 @@
 [{
-        "ID": 1,
-        "RuleName": "Must Be 5 Characters"
-    },
-    {
-        "ID": 1,
-        "RuleName": "Must Not Be Used Somewhere"
-    },
-    {
-        "ID": 1,
-        "RuleName": "Must Be Cool"
-    }]
+		"ID": 1,
+		"RuleName": "Must Be 5 Characters"
+	},
+	{
+		"ID": 1,
+		"RuleName": "Must Not Be Used Somewhere"
+	},
+	{
+		"ID": 1,
+		"RuleName": "Must Be Cool"
+	}
+]
